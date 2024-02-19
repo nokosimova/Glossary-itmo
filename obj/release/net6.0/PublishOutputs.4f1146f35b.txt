@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\Grossary.exe
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\appsettings.Development.json
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\appsettings.json
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\Grossary.dll
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\Grossary.deps.json
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\Grossary.runtimeconfig.json
+C:\Users\HP\Desktop\Glossary\bin\release\net6.0\publish\Grossary.pdb
